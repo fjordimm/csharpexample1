@@ -3,7 +3,7 @@ using System;
 class Program {
 
     public static void Main(string[] args) {
-        Console.WriteLine("elafdjkldfjkl");
+        Console.WriteLine("its time for something");
     }
 
 }
